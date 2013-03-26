@@ -1,0 +1,9 @@
+Django==1.5
+South==0.7.6
+coverage==3.6
+django-braces==1.0.0
+django-crispy-forms==1.2.3
+django-discover-runner==0.3
+django-floppyforms==1.1
+django-model-utils==1.2.0
+wsgiref==0.1.2
